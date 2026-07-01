@@ -22,8 +22,21 @@ Selamat datang di halaman informasi jadwal ujian. Harap perhatikan tanggal, jam,
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Senin, 6 Juli 2026** | 08:00 - 09:30 | Fisika Teknik | Info 1-4 | Ruang INF 1-4 | Sahrani Somadayo, M.Cs |
 | | 10:00 - 11:30 | Multimedia | Info 1-4 | Ruang INF 1-4 | M Dzikrullah Suratin, M.Kom |
-| **Selasa, 9 Juni 2026** | 08:00 - 09:30 | Stuktur Data | Info 1-4  | Ruang INF 1-4 | Abdul Haris Muhammad, M.Kom |
+| **Selasa, 7 Juli 2026** | 08:00 - 09:30 | Stuktur Data | Info 1-4  | Ruang INF 1-4 | Abdul Haris Muhammad, M.Kom |
 | | 10:00 - 11:30 | Organisasi Dan Arsitektur Komputer | Info 1-4| Ruang INF 1-4 | Agil Assagaf, M.Kom |
+
+---
+
+### SEMESTER IV
+
+| Hari & Tanggal | Waktu (WIB) | Mata Pelajaran / Kuliah | Kelas | Ruangan | Pengawas |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Senin, 6 Juli 2026** | 13:00 - 14:30 | Rekayasa Perangkat Lunak | Info 1-4 | Ruang INF 1-4 | Adelina Ibrahim, M.Eng |
+| | 14:30 - 16:00 | Sistem Basis Data II | Info 1-4 | Ruang INF 1-4 | Sakina Sudin, M.Kom |
+| **Selasa, 7 Juli 2026** | 03:00 - 14:30 | Riset Operasi | Info 1-2  | Ruang INF 1-2 | Muzakir Hi Sulran, M.Si |
+| | 14:30 - 16:00 | Al Islam Kemuhammadiyaan 4 | Info 1-4| Ruang INF 1-4 | Dr La ode Ilman, LC, M.Pd.I |
+| **Rabu, 8 Juli 2026** | 08.00 - 12.00 | Pemograman Web | Info 1-4  | Ruang Lab Pemograman| Gamaria Mandar, M.Kom|
+
 
 ---
 
