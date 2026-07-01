@@ -8,7 +8,7 @@ Selamat datang di halaman informasi jadwal ujian. Harap perhatikan tanggal, jam,
 ## ⚠️ Aturan & Tata Tertib Ujian
 1. Wajib hadir **15 menit** sebelum ujian dimulai.
 2. Menggunakan Kameja Putih dan Celana/Rok Hitam.
-3. Membawa Slip Lab yang telah di VALIDASI
+3. Membawa Slip Lab yang telah di VALIDASI, Validasi Lab paling lambat 4 Juli 2026
 4. UAS Bersifat Semi Online, Mohon Pastikan HP/gadget terakses internet
 5. Membawa Alat Tulis.
 6. Matakuliah yang tidak terdapat dijadwal, pelaksaan UAS telah dilakukan lebih awal atau di undur, silahkan hub dosen pengampu nya.
